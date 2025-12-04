@@ -18,5 +18,5 @@ This repo will serve as long-term documentation for my #700DaysOfSkill challenge
 
 | Level    | Concept Learned         | Techniques Used                  | Write-up PDF          | Python Script          |
 | -------- | ----------------------- | -------------------------------- | --------------------- | ---------------------- |
-| Vortex 0 | Network integer parsing | Python sockets, struct unpacking | [PDF]("Vortex 0/OverTheWireVortexLevel-0.pdf") | [Script](./vortex0.py) |
+| Vortex 0 | Network integer parsing | Python sockets, struct unpacking | [PDF](./OverTheWireVortexLevel-0.pdf) | [Script](./vortex0.py) |
 | Vortex 1 | Coming Soon             | .....                            | .....                 | .....                  |
