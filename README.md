@@ -20,3 +20,6 @@ This repo will serve as long-term documentation for my #700DaysOfSkill challenge
 | -------- | ----------------------- | -------------------------------- | --------------------- | ---------------------- |
 | Vortex 0 | Network integer parsing | Python sockets, struct unpacking | [PDF](./Vortex%200/OverTheWireVortexLevel-0.pdf) | [Script](./Vortex%200/vortex0.py) |
 | Vortex 1 | Coming Soon             | .....                            | .....                 | .....                  |
+
+
+Part of my #700DaysOfSkill challenge — mastering cybersecurity, DFIR, and RE by showing up every single day.
